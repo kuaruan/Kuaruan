@@ -4,7 +4,7 @@
 
 <img src="Snow.jpg" width="100%" />
 
-### About me
+*Sobre mi*
 *Estudiante de Ingeniería Informática, mención Inteligencia Artificial*
 
 
