@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kuaruan | AI & Software Engineering Student
+*Kuaruan | AI & Software Engineering Student*
 
 <img src="Snow.jpg" width="100%" />
 
