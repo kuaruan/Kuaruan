@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**Bases de Datos y Herramientas**
+*Bases de Datos y Herramientas*
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=files-dot-com&logoColor=white" />
@@ -24,10 +24,10 @@
 </p>
 
 
-### Stats 
+* Stats *
 
-| GitHub Activity | LeetCode Progress |
+| GitHub Activity |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=kuaruan&show_icons=true&theme=dark&hide_border=true" width="380" /> | <img src="https://leetcode-stats-six.vercel.app/?username=kuaruan&theme=dark" width="380" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=kuaruan&show_icons=true&theme=dark&hide_border=true" width="380" /> | 
 
 </div>
