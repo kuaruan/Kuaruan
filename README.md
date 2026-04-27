@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=matplot.lib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=stats&logoColor=white" />
+
 </p>
 
 *Bases de Datos y Herramientas*
