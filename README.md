@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kuaruan/Kuaruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kuaruan here!
 
-Here are some ideas to get you started:
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=40)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LeetCode](https://leetcode.com/u/Kuzhen/)
+
+## About me
+Estudiante de Ingeniería Informática, especialización Inteligencia Artificial
+
+</div>
+
+### Tech
+Python
+
+---
+
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_kuaruan&show_icons=true&theme=dark)
