@@ -2,9 +2,7 @@
 
 # Kuaruan | AI & Software Engineering Student
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Kuaruan%20here!&fontSize=40)
-
----
+![Banner]<img src="Snow.jpg" width="100%" />
 
 ### About me
 *Estudiante de Ingeniería Informática, mención Inteligencia Artificial
