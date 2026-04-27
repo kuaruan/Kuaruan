@@ -2,7 +2,7 @@
 
 # Kuaruan here!
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=40)
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Kuaruan%20here!&fontSize=40)
 
 [![LeetCode](https://leetcode.com/u/Kuzhen/)
 
@@ -17,4 +17,4 @@ Python
 ---
 
 ### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_kuaruan&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=kuaruan&show_icons=true&theme=dark)
