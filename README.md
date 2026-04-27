@@ -27,7 +27,7 @@ Estudiando actualmente áreas de Ingeniería de datos, Automatización y DevOps
 </p>
 
 
-### 📊 Estadísticas de Rendimiento
+### Stats 
 
 | GitHub Activity | LeetCode Progress |
 | :---: | :---: |
