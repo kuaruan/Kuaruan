@@ -5,8 +5,7 @@
 <img src="Snow.jpg" width="100%" />
 
 ### About me
-*Estudiante de Ingeniería Informática, mención Inteligencia Artificial
-Estudiando actualmente áreas de Ingeniería de datos, Automatización y DevOps
+*Estudiante de Ingeniería Informática, mención Inteligencia Artificial*
 
 
 *Lenguajes y Frameworks*
