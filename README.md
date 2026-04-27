@@ -1,35 +1,37 @@
 <div align="center">
 
-# Kuaruan here!
+# Kuaruan | AI & Software Engineering Student
 
 ![Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Kuaruan%20here!&fontSize=40)
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=kuaruan&theme=dark)
-
-## About me
-*Estudiante de Ingeniería Informática, especialización Inteligencia Artificial*
-
-
-### Tech
-Python
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
 ---
 
-### 📊 Stats
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kuaruan&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
-    </td>
-    <td align="center">
-      <img src="https://leetcode-stats-six.vercel.app/?username=kuaruan&theme=dark" alt="LeetCode Stats" width="400" />
-    </td>
-  </tr>
-</table>
+### About me
+*Estudiante de Ingeniería Informática, mención Inteligencia Artificial
+Estudiando actualmente áreas de Ingeniería de datos, Automatización y DevOps
+
+
+*Lenguajes y Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**Bases de Datos y Herramientas**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=files-dot-com&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+### 📊 Estadísticas de Rendimiento
+
+| GitHub Activity | LeetCode Progress |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=kuaruan&show_icons=true&theme=dark&hide_border=true" width="380" /> | <img src="https://leetcode-stats-six.vercel.app/?username=kuaruan&theme=dark" width="380" /> |
 
 </div>
