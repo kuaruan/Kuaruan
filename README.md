@@ -5,6 +5,7 @@
 <img src="Snow.jpg" width="100%" />
 
 *Sobre mi*
+
 *Estudiante de Ingeniería Informática, mención Inteligencia Artificial*
 
 
