@@ -2,7 +2,7 @@
 
 # Kuaruan | AI & Software Engineering Student
 
-![Banner]<img src="Snow.jpg" width="100%" />
+<img src="Snow.jpg" width="100%" />
 
 ### About me
 *Estudiante de Ingeniería Informática, mención Inteligencia Artificial
